@@ -1,0 +1,1 @@
+This is a sample file used for testing the cloud security project. It contains sample text data for encryption, upload, blockchain verification, and subsequent decryption. Feel free to modify this text or replace it with any content you want to secure.
